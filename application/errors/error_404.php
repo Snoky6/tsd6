@@ -1,0 +1,2 @@
+<h2>Oeps deze pagina kennen we niet!</h2>
+<p>Kijk nog eens na of u wel de juiste link heeft ingegeven en als het probleem zich blijft voordoen neem dan contact op met <b><?php echo global_webshopemail; ?></b></p>
